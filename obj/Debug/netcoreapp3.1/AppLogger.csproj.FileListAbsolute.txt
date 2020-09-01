@@ -1,0 +1,9 @@
+C:\Users\snkurian\source\repos\AppLogger\bin\Debug\netcoreapp3.1\AppLogger.deps.json
+C:\Users\snkurian\source\repos\AppLogger\bin\Debug\netcoreapp3.1\AppLogger.dll
+C:\Users\snkurian\source\repos\AppLogger\bin\Debug\netcoreapp3.1\AppLogger.pdb
+C:\Users\snkurian\source\repos\AppLogger\obj\Debug\netcoreapp3.1\AppLogger.csprojAssemblyReference.cache
+C:\Users\snkurian\source\repos\AppLogger\obj\Debug\netcoreapp3.1\AppLogger.AssemblyInfoInputs.cache
+C:\Users\snkurian\source\repos\AppLogger\obj\Debug\netcoreapp3.1\AppLogger.AssemblyInfo.cs
+C:\Users\snkurian\source\repos\AppLogger\obj\Debug\netcoreapp3.1\AppLogger.dll
+C:\Users\snkurian\source\repos\AppLogger\obj\Debug\netcoreapp3.1\AppLogger.pdb
+C:\Users\snkurian\source\repos\AppLogger\obj\Debug\netcoreapp3.1\AppLogger.csproj.CoreCompileInputs.cache

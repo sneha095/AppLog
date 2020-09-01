@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Contoso.Util.AppLogger</id>
+    <version>1.0.0</version>
+    <authors>Contoso</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Library to log text to console</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\snkurian\source\repos\AppLogger\bin\Debug\netcoreapp3.1\AppLogger.dll" target="lib\netcoreapp3.1\AppLogger.dll" />
+  </files>
+</package>
